@@ -1,9 +1,9 @@
-# node-phabby
+# node-subby
 
-A simple API wrapper for [Phabricator](http://phabricator.org/).
+A simple command line wrapper for Subversion.
 
 ## Installation
 
 ```
-npm install phabby
+npm install subby
 ```
