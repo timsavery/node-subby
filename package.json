@@ -1,7 +1,7 @@
 {
   "name": "subby",
   "version": "0.1.0",
-  "description": "Simple command line wrapper for Subversion.",
+  "description": "Simple wrapper module for the Subversion command line utility.",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/jshint/bin/jshint *.js"

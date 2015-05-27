@@ -1,6 +1,6 @@
 # node-subby
 
-A simple command line wrapper for Subversion.
+A simple wrapper module for the Subversion command line utility.
 
 ## Installation
 
