@@ -1,0 +1,26 @@
+{
+  "name": "subby",
+  "version": "0.1.0",
+  "description": "Simple command line wrapper for Subversion.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/jshint/bin/jshint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timsavery/node-subby.git"
+  },
+  "keywords": [
+    "subversion",
+    "svn"
+  ],
+  "author": "Tim Savery <tim.savery@gmail.com> (https://github.com/timsavery)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timsavery/node-subby/issues"
+  },
+  "homepage": "https://github.com/timsavery/node-subby",
+  "devDependencies": {
+    "jshint": "^2.7.0"
+  }
+}
